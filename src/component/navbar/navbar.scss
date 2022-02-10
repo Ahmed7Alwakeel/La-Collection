@@ -1,0 +1,38 @@
+*{
+   
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    
+}
+.navbar {
+    height: 70px;
+    z-index: 2;
+    .navbar-collapse{
+        z-index: 2;
+
+        background-color: white;
+    }
+   
+    a {
+        font-size: 18px;
+
+    }
+
+    .nav-item {
+        .nav-link {
+
+            font-size: 20px;
+            font-weight: bold;
+            color: rgb(68, 67, 67);
+
+            &:hover {
+                color: grey;
+
+            }
+        }
+    }
+}
+.navHandle{
+    height: 71px;
+}

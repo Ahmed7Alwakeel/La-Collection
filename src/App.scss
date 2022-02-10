@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+::-webkit-scrollbar{
+    background-color:rgb(214, 211, 211);
+    width: 10px;
+   
+}
+
+::-webkit-scrollbar-thumb{
+   
+    background-color: grey;  
+    border-radius: 20px;
+    
+}
