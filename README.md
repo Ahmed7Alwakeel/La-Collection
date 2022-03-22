@@ -1,4 +1,4 @@
 #E-commerce Using React Js
-get products using api 
-handle cart using redux 
+#get products using api 
+#handle cart using redux 
 
